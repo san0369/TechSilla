@@ -5,7 +5,7 @@ Frontend
 - Install all dependencies by running `npm i`.
 - Start the frontend by running `npm start`.
 
-  Backend
+Backend
 - Open another terminal of your code editor.
 - Navigate to the backend directory by running `cd backend`.
 - Install all dependencies by running `npm i`.
