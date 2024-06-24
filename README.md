@@ -1,7 +1,18 @@
 # Fake Profile Detection
-In this project , Ml models have been trained to detect fake profiles using certains features.
-The four model used are :
-a)Kmeans
-b)Neutral Network
-c)Support Vector Machine
-d)Random Forest Classifier
+Frontend
+- Open the terminal of your code editor.
+- Navigate to the frontend directory by running `cd frontend`.
+- Install all dependencies by running `npm i`.
+- Start the frontend by running `npm start`.
+
+  Backend
+- Open another terminal of your code editor.
+- Navigate to the backend directory by running `cd backend`.
+- Install all dependencies by running `npm i`.
+- Create a `.env` file with the following configurations:
+  ```
+  MongoDB Atlas or local database link
+  PORT number
+  JWT_TOKEN_KEY
+  ```
+- Start the backend by running `node server.js` or `npm start`.
